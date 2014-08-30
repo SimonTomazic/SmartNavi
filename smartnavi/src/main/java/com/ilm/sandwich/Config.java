@@ -18,8 +18,8 @@ public class Config {
 	
 	// autocomplete
 	public static final String		PLACES_API_URL		= "https://maps.googleapis.com/maps/api/place";
-	public static final String		PLACES_API_KEY_MA	= "YOUR_PLACES_API_KEY_HERE";
-	public static final String		PLACES_API_KEY_CH	= "YOUR_SECOND_PLACES_API_KEY_HERE";
+	public static final String		PLACES_API_KEY_MA	= "AIzaSyAT3ahsjBZZtWZMzcMy-AJffVfVGLZPdMw";
+	public static final String		PLACES_API_KEY_CH	= "AIzaSyAT3ahsjBZZtWZMzcMy-AJffVfVGLZPdMw";
 	public static String			PLACES_API_KEY		= PLACES_API_KEY_MA;
 	public static int				PLACES_API_FALLBACK	= 0;
 	public static final String[]	COLUMNS				= { BaseColumns._ID, SearchManager.SUGGEST_COLUMN_TEXT_1, };
