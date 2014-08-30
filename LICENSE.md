@@ -15,9 +15,9 @@ limitations under the License.
 Libraries
 ==============
 SmartNavi makes use of the following libraries under their corresponding licenses:
-ActionBarSherlock - Apache License 2.0
-osmdroid - Apache License 2.0
-OsmBonusPack - GNU LESSER GENERAL PUBLIC LICENSE
+* ActionBarSherlock - Apache License 2.0
+* osmdroid - Apache License 2.0
+* OsmBonusPack - GNU LESSER GENERAL PUBLIC LICENSE
 
 
 Apache License
